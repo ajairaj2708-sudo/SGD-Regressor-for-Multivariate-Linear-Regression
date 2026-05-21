@@ -79,7 +79,8 @@ print("Actual Number of Occupants:", y_occ_test)
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+<img width="1417" height="737" alt="image" src="https://github.com/user-attachments/assets/c0f4c5fb-91f9-4ada-b637-aab088404d89" />
+
 
 
 ## Result:
